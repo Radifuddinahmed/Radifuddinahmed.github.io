@@ -12,7 +12,7 @@ redirect_from:
 Study Period: <b>March 2014 - October 2018 </b>   
 CGPA: <b>3.22/4.00</b>  
 
-## <font color="#00cc66"> English Proficiency</font>
+## <font color="#00cc66"> English Proficiency </font>
 
 **International English Language Testing System (IELTS)** : <b><font color= "#737373" >7.0</font></b> (Overall)
   * Listening: 7.5
