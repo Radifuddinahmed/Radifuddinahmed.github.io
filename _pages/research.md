@@ -9,7 +9,7 @@ redirect_from:
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/me)**   
 *Bachelor of Science in Mechanical Engineering*   
-Study Period: <b>March 2014 - October 2018</b>   
+Study Period: <b>March 2014 - October 2018 </b>   
 CGPA: <b>3.22/4.00</b>  
 
 ## <font color="#00cc66"> English Proficiency</font>
