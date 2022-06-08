@@ -1,0 +1,37 @@
+# main links links
+main:
+  - title: "Education and Research"
+    url: /research/
+  
+  - title: "Experience"
+    url: /experience/ 
+    
+  - title: "Projects"
+    url: /projects/ 
+
+  - title: "Achievements and Activities"
+    url: /achievements/ 
+
+  - title: "Referees"
+    url: /referees/ 
+  
+
+    
+  # - title: "Misc"
+  #   url: /misc/ 
+    
+#   - title: "Talks"
+#     url: /talks/    
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "Guide"
+#     url: /markdown/
