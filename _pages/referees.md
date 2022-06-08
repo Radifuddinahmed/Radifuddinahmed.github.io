@@ -26,7 +26,7 @@ redirect_from:
       </td>
       <td>
         <b>Dr.Md. Sanaul Rabbi</b><br>
-        <i>Associate Professor</i><br>
+        <i>Professor</i><br>
         Dept. of Mechanical Engineering, CUET<br>
         M.Sc. in Mechatronics (CUET);<br>
         PhD. In NDT (Saga University, Japan);<br>
