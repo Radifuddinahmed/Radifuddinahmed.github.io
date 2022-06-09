@@ -11,10 +11,12 @@ redirect_from:
  * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT -->
  
   * <b><font color= "#737373" >Champion</font></b>, MakerFest, 2018.
+  * <b><font color= "#737373" >Champion</font></b>, CSE Fest Gaming Contest, 2018.
   * <b><font color= "#737373" >Runner up</font></b>, International Soccerbot Contest, 2016.
   * <b><font color= "#737373" >Runner up</font></b>, ME Day-CAD Contest, 2016.
+  * <b><font color= "#737373" >Runner up</font></b>, ME Day-Rubik's Cube Contest, 2016.
   * <b><font color= "#737373" >Best Designer</font></b>, RMA Robo Rush, 2015.
-
+  * <b><font color= "#737373" >Champion</font></b>, ME Day-Rubik's Cube Contest, 2015.
 
 ## <font color="#00cc66"> Robotic Contests Attended</font>
 
