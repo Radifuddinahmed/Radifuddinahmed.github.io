@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-**Senior Officer (Engineering Department),** 
+**Assistant Manager (Engineering Department),**<br> 
 *Renata Limited.*   [Jul, 2019 - Present]
-*<b>Responsibilities:</b> Industrial Machine Vision and Automation R&D (Research and Development)*
+<br>*<b>Responsibilities:</b>*
+
+* <b>Industrial Automation:</b> Industrial Machine Vision, PLC and HMI based automation system design, programming, Maintenance and R&D.<br>
+* <b>Project Management:</b> Process flow, Cleanroom, HVAC, Floor layout design and implementation.<br>
+* <b>Maintenance:</b> Chiller, Cooling Tower, Pump, HVAC, Air Compressor, Water Treatment Plant, Production Machine Maintenance.<br>
+* <b>Documentation:</b> In house documentation following BP, USP and WHO guidelines.<br>
+
 
 
 ## <font color="#00cc66"> Professional Training </font>
