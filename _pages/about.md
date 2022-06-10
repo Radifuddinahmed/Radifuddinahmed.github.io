@@ -13,7 +13,7 @@ redirect_from:
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
 -->
-*A Robotics and Machine Learning enthusiast.*
+*A Robotics and Machine Vision enthusiast.*
 
 <p align="justify">
 
@@ -28,5 +28,5 @@ Currently, I am employed as maintenance and automation engineer at Renata Limite
 
 <b>Contact: 📧</b> [<font color= "#990033" >radifuddinahmed@gmail.com</font>](radifuddinahmed@gmail.com)
 
-<b>My latest cv: </b> <a href="../files/CV_RadifUddinAhmed.pdf"><font color="#990033">Radid-Uddin_CV</font></a>
+<b>My latest cv: </b> <a href="../files/CV_RadifUddinAhmed.pdf"><font color="#990033">CV_RadifUdidnAhmed</font></a>
 
