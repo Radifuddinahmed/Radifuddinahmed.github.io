@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Radif Udding Ahmed"
   avatar           : "Radif.jpg"
-  bio              : "Assistant Manager (Engineering Department), Renata Limited.<br><br> Graduate student at CUET-ME. Interested in Robotics & Machine Vision"
+  bio              : "Assistant Manager (Engineering Department), Renata Limited.<br><br> Graduate student at CUET-ME. Interested in Robotics & Machine Vision."
   location         : "Dhaka, Bangladesh"
   employer         : #"Dhaka, Bangladesh"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCJXAQ1hlLmC9LU_sYtTaKyQ"
   dblp             : ""
   wikipedia        :
 
