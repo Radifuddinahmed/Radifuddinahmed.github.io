@@ -12,7 +12,7 @@ title                    : "Radif Uddin Ahmed"
 title_separator          : "-"
 name                     : &name "Radif Uddin Ahmed"
 description              : &description "Chittagong University of Engineering and Technology"
-url                      : https://Radifuddinahmed.github.io/ #http://127.0.0.1:4000/ #https://avishek-018.github.io/radif-portfolio #http://127.0.0.1:4000/ #https://ricky-018.github.io #  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Radifuddinahmed.github.io/ # #https://avishek-018.github.io/radif-portfolio #http://127.0.0.1:4000/ #https://ricky-018.github.io #  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 production_url            : https://Radifuddinahmed.github.io/
 baseurl                  : #"/radif-portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "Radifuddinahmed/Radifuddinahmed.github.io"
