@@ -41,26 +41,34 @@ My broad research interest are in ......
   
 
 ## <font color="#00cc66"> Publications </font>  
- 
-**[1] Design and Implementation of a Dual Axis Solar Tracker for Maximum Power.**
-*National Conference on Energy Technology and Industrial Automation, 2018.* 
-<br><a href="../files/IET (1).pdf"><font color="#990033">Read</font></a></br>
+**[1] Design and Fabrication of a Low-Cost Customizable Modern CNC Laser Cutter.**
+*International Conference on Machine Intellignence and Emerging Technologies, 2022.* 
+<br><a href="../files/I.pdf"><font color="#990033"><b>Under Review</b></font></a>
 
-**[2] Performance Analysis of Hydroxy Gas Generator by Varying Conditions of Electrolyte Concentration, Temperature and Time.**
+**[2] A Framework for Industrial Inspection System Using Deep Learning.**
+*Annals of Data Science, 2022.* 
+<br><a href="../files/I.pdf"><font color="#990033"><b>Under Review</b></font></a>
+
+ 
+**[3] Design and Implementation of a Dual Axis Solar Tracker for Maximum Power.**
+*National Conference on Energy Technology and Industrial Automation, 2018.* 
+<br><a href="../files/IET (1).pdf"><font color="#990033">Read</font></a>
+
+**[4] Performance Analysis of Hydroxy Gas Generator by Varying Conditions of Electrolyte Concentration, Temperature and Time.**
 *International Conference on Mechanical, Industrial and Energy Engineering, 2018.*
 <br><a href="../files/ICMIEE18-323.pdf"><font color="#990033">Read</font></a>
 
-**[3] Performance Analysis of Nylon Made Vortex Tube.**
+**[5] Performance Analysis of Nylon Made Vortex Tube.**
 *International Conference on Mechanical, Industrial and Energy Engineering, 2018.*
 <br><a href="../files/ICMIEE18-172.pdf"><font color="#990033">Read</font></a>
 
 
-**[4] A Web based Vehicle Condition Monitoring and Safety Scheme.**
+**[6] A Web based Vehicle Condition Monitoring and Safety Scheme.**
 *International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering, 2018.*
 <br><a href="../files/IC4ME2-2018_paper_335.pdf"><font color="#990033">Read</font></a>
 
 
-**[5] Accident Prevention Smart Zone Sensing System.**
+**[7] Accident Prevention Smart Zone Sensing System.**
 *IEEE Region 10 Humanitarian Technology Conference (R10-HTC)”, 2017.* 
 <br><a href="../files/21144.pdf"><font color="#990033">Read</font></a>
 
