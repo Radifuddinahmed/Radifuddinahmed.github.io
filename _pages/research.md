@@ -11,7 +11,7 @@ redirect_from:
 *Bachelor of Science in Mechanical Engineering*   
 Study Period: <b>March 2014 - October 2018 </b>   
 CGPA: <b>3.22/4.00 (68.40%)</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**3.84** in last **40.50** credits. 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**3.84** in last **40.5** credits. 
 
 ## <font color="#00cc66"> English Proficiency </font>
 
